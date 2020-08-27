@@ -8,3 +8,4 @@ if finres > 0:
     print(f'Finres per one employee is {(finres / employees):2}')
 else:
     print('Earning is not higher than costs')
+    
